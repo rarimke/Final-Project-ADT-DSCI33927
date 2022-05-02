@@ -205,7 +205,7 @@ ui <- fluidPage(
              
     ),
     
-    tabPanel('Search/Add/Update',
+    tabPanel('Search/Add',
              #Sidebar
              # Input: Select a question/query
              sidebarLayout(
